@@ -1,0 +1,21 @@
+p {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  font-size: 12px;
+  text-align: justify;
+  line-height: 10px;
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(255,255,255,0);
+}
+
+body {
+  background: #000000;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
